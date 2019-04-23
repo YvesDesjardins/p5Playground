@@ -3,6 +3,6 @@
 ## About
   Random playground for messing with P5 in JS.
   
-##Usage
+## Usage
   - Clone repo
   - run index.html in browser
